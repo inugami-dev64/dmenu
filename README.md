@@ -4,9 +4,9 @@ This dmenu build has some patches applied to it and is themed to be used with my
 configuration.  
 List of some patches applied are following:  
 
-* highlight - ![link](https://tools.suckless.org/dmenu/patches/highlight/)  
-* line height - ![link](https://tools.suckless.org/dmenu/patches/line-height/)  
-* numbers - ![link](https://tools.suckless.org/dmenu/patches/numbers/)  
+* highlight  
+* line height  
+* numbers  
 
 ## Building
 Make sure that Xlib headers are installed  
